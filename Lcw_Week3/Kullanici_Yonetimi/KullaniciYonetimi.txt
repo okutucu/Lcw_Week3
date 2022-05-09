@@ -1,0 +1,8 @@
+Bir kullanıcı sipariş verdiğinde bir çok kriter göz önüne alınmalıdır.
+
+Kullanıcı yönetimi için adress bilgileri ve ödeme bilgileri önemli bir kriterdir.
+
+User_Adress ve User_Payment tablolarını User tablosuna bağladık.
+
+Kullanıcıları yönetmenin başka bir yolu, son kullanıcılar ve yöneticiler için
+iki ayrı kullanıcı tablosu oluşturmak ve gerekli ilişkileri atamaktır.

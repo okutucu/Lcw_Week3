@@ -1,0 +1,9 @@
+Ürün yönetiminde ürün listesini tutmakla beraber ürün envanteri, indirimler , kategoriler ve bir çok 
+diğer özelleride yönetmemiz gerekmektedir. Veri tabanı yönetme mantığının temellerinde olan veri 
+kopyalamak yerine veri basitleştirmektir.
+
+Product tablomuz ürünlerle ilgili bilgileri tutmaktadır.Discount ve Invertory tablolarımız
+ilişkisel biçimde product tablomuza bağlıdır. Bu yöntem veritabanında esneklik sağlamaktadır.
+
+Product- Category tablomuz ise çoka çok bir ilişki ile bağlanmıştır.
+

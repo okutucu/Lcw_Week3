@@ -1,0 +1,2 @@
+https://fabric.inc/blog/ecommerce-database-design-example/
+https://knowledgebase.fabric.inc/docs/openapi/oms/reference/#tag/Cart
